@@ -64,6 +64,6 @@ When i go to http://192.168.1.40:8565:
 
 
 
-I you like this, consider buing me a coffee: https://buymeacoffee.com/waazaa
+If you like this, consider buing me a coffee: https://buymeacoffee.com/waazaa
 
 If you need an UnRAID license follow this link: https://unraid.net/pricing?via=4c3f80
