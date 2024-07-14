@@ -1,6 +1,5 @@
 # Proxy-WOL-Redirect
 
-Source for https://hub.docker.com/r/waaman/proxy-wol-redirect
 
 **Discord channel**: https://discord.gg/kgpjVvX2fb
 
@@ -43,7 +42,7 @@ docker run -d \
                 -e REDIRECT=http://your.awaken.service \
 		-e SSL_VERIFY=False \
                 --network host \
-                waaman/proxy-wol-redirect:latest
+                waazaafr/proxy-wol-redirect:latest
 ```
 
 **USAGE**
@@ -63,6 +62,7 @@ When i go to http://192.168.1.40:8565:
 - when wake up the HTTP request is redirected to http://192.168.1.50
 
 
+Feel free to join me on https://discord.gg/p9xkjEw8ts⁠
 
 If you like this, consider buing me a coffee: https://buymeacoffee.com/waazaa
 
