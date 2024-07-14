@@ -61,7 +61,7 @@ When i go to http://192.168.1.40:8565:
 - waiting until TIMEOUT for wake up
 - when wake up the HTTP request is redirected to http://192.168.1.50
 
-===========================================================================================
+=======================================================================================
 
 Feel free to join me on https://discord.gg/p9xkjEw8ts⁠
 
